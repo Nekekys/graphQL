@@ -1,0 +1,45 @@
+.list{
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.list>div{
+  margin-bottom: 5px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.single{
+  margin-left: 15px;
+}
+h1,h2,h3,h4{
+  padding: 0;
+  margin: 0;
+}
+P{
+  padding: 0;
+  margin: 0;
+}
+span{
+  padding: 0;
+  margin: 0;
+}
+.podrobnee{
+  margin-bottom: 15px;
+}
+
+
+.add{
+  font-size: 24px;
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid #000;
+}
+.button{
+  font-size: 24px;
+  padding: 5px;
+  cursor: pointer;
+  border: 1px solid #000;
+}
+.addWindow{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
